@@ -3,6 +3,8 @@ import random
 import time
 from pygame import mixer
 
+
+
 # Adding music is optional as per your choice.
 mixer.init()
 mixer.music.load("BirthDay-wishes/happy-birthday-314197.mp3")
